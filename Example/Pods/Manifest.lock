@@ -1,0 +1,16 @@
+PODS:
+  - DAFileMonitor (0.1.0)
+
+DEPENDENCIES:
+  - DAFileMonitor (from `../`)
+
+EXTERNAL SOURCES:
+  DAFileMonitor:
+    :path: ../
+
+SPEC CHECKSUMS:
+  DAFileMonitor: e2e0a3409576c64346a1be31f26f32442204a5ba
+
+PODFILE CHECKSUM: 107be74079de81f1a7b62d5837c014077adefaa2
+
+COCOAPODS: 1.2.1

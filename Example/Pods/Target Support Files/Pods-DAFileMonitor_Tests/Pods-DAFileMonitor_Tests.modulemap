@@ -1,0 +1,6 @@
+framework module Pods_DAFileMonitor_Tests {
+  umbrella header "Pods-DAFileMonitor_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

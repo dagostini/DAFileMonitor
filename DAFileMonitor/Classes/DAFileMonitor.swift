@@ -1,6 +1,5 @@
 //
 //  DAFileMonitor.swift
-//  DAAppGroupDemo
 //
 //  Created by Dejan on 01/08/2017.
 //  Copyright © 2017 Dejan. All rights reserved.

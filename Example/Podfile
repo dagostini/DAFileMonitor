@@ -1,0 +1,6 @@
+use_frameworks!
+target 'DAFileMonitor_Tests' do
+  pod 'DAFileMonitor', :path => '../'
+  
+  
+end
